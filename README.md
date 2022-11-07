@@ -4,7 +4,7 @@
 
 
 
-### *Raw sequence reads have been made publically available at NCBI's SRA under the BioProject PRJNA#########*
+### *Raw sequence reads have been made publically available at NCBI's SRA under the BioProject PRJNA898995*
 
 
 # Table of Contents
